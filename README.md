@@ -29,10 +29,10 @@ Uma agenda de contatos que roda no terminal e permite ao usuário gerenciar seus
  
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/agenda-de-contatos
+git clone https://github.com/futuremltz/Agenda-de-Contatos.git
  
 # Acesse a pasta
-cd agenda-de-contatos
+cd Agenda-de-Contatos
  
 # Execute o arquivo
 python agenda_de_contatos.py
