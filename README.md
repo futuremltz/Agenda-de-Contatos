@@ -10,6 +10,14 @@ Uma agenda de contatos que roda no terminal e permite ao usuário gerenciar seus
  
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Adicionando e favoritando contatos na agenda" />
+</p>
+
+---
+
 ## ✨ Funcionalidades
  
 - ✅ **Adicionar contato** — salva nome, telefone e e-mail
