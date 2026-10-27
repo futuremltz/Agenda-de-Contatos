@@ -1,4 +1,9 @@
 # 📒 Agenda de Contatos
+
+<p>
+  <a href="https://github.com/futuremltz/Agenda-de-Contatos/actions/workflows/build.yml"><img src="https://github.com/futuremltz/Agenda-de-Contatos/actions/workflows/build.yml/badge.svg" alt="Build" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg" alt="Licença MIT" /></a>
+</p>
  
 Projeto desenvolvido como desafio prático do módulo **Introdução ao Python** da [Rocketseat](https://rocketseat.com.br/), com o objetivo de reforçar os conceitos fundamentais da linguagem por meio de uma aplicação real e funcional.
  
